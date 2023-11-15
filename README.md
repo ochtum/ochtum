@@ -20,6 +20,7 @@
 - DevOps Tool: Docker
 - Cloud Platform: Azure, GCP
 - Cloud Infrastructure: Envoy, Zipkin, Dapr
+- Server OS: Ubuntu, Cent OS, Windows Server
 - Network Device: Aruba Wifi, HP Managed L2 Switch, Froti Gate
 
 ### Web Production
