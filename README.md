@@ -8,8 +8,16 @@
 
 ## 🛠 Skills
 - Languages: C#, VB, VBA, PHP, JavaScript, HTML, CSS
+- FrontEnd: Blazor, HTML5 ,CSS3, Javascript
+- Backend: Blazor,
 - Frameworks: dotnet, Bootstrap
-- Tools: Git, Docker, Azure, GCP
+- Developer Tools: Git, Docker, Postman, VS Code, Visual Studio
+- Server Management: Apache, Nginx
+- Databese: Maria DB, MySQL, SQL Server
+- DevOps Tool: Docker
+- Cloud Platform: Azure, GCP
+- Cloud Infrastructure: Envoy, Zipkin, Dapr
+- Network Device: Aruba Wifi, HP Managed L2 Switch, Froti Gate
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
