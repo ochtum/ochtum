@@ -7,7 +7,8 @@
 - 😄 Pronouns:He/him/his  
 
 ## 🛠 Skills
-- Languages: C#, VB, VBA, PHP, JavaScript, HTML, CSS
+### Developer
+- Languages: C#, VB, VBA, PHP, JavaScript, HTML, CSS, COBOL
 - FrontEnd: Blazor, HTML5 ,CSS3, Javascript
 - Backend: Blazor,
 - Frameworks: dotnet, Bootstrap
@@ -18,6 +19,18 @@
 - Cloud Platform: Azure, GCP
 - Cloud Infrastructure: Envoy, Zipkin, Dapr
 - Network Device: Aruba Wifi, HP Managed L2 Switch, Froti Gate
+
+### Web Marketer
+- GoogleAnalytics
+- WebWriter
+- MEO Optimization
+- SEO Optimization
+- Video Content Creation
+- Image Content Creation
+- SNS Management(Instagram, Facebook, Twittter, Tiktok, Youtube)
+- Customer Journey Map Creation
+- Market Analysis
+- Marketing Strategy Formulation
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
