@@ -1,5 +1,9 @@
-### Hi there 👋
+# 👋Hi there! I'm Junichi Takeda
 
+## 👤 About Me
+- 🌱 I’m currently learning:Adobe Illustrator, Figma
+- 📫 How to reach me:[Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP)
+  
 <!--
 **ochtum/ochtum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
