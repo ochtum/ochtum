@@ -13,3 +13,8 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
+
+## 📞 Contact Me
+- Email: [j-takeda@sky-field.co.jp](mailto:j-takeda@sky-field.co.jp)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ochtum)
+- WhatsApp: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
