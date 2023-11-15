@@ -7,22 +7,23 @@
 - 😄 Pronouns:He/him/his  
 
 ## 🛠 Skills
-### Developer
+### Shared Items
 - Languages: C#, VB, VBA, PHP, JavaScript, HTML, CSS, COBOL
-- FrontEnd: Blazor, HTML5 ,CSS3, Javascript
+
+### Developer
+- FrontEnd: Blazor
 - Backend: Blazor
-- Framework: dotnet, Bootstrap
+- Framework: dotnet
 - Developer Tools: Git, Docker, Postman, VS Code, Visual Studio
 - Server Management: Apache, Nginx
-- Databese: Maria DB, MySQL, SQL Server
+- Database: Maria DB, MySQL, SQL Server
 - DevOps Tool: Docker
 - Cloud Platform: Azure, GCP
 - Cloud Infrastructure: Envoy, Zipkin, Dapr
 - Network Device: Aruba Wifi, HP Managed L2 Switch, Froti Gate
 
 ### Web Production
-- Languages: PHP, HTML5, CSS3
-- Framework: Bootstlap, Tailwind CSS
+- Framework: Bootstrap, Tailwind CSS
 - WireFrame: Figma
 - CMS: Wordpress
   
