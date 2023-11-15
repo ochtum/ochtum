@@ -3,7 +3,7 @@
 ## 👤 About Me
 - 🔭 I’m currently working on:new business project
 - 🌱 I’m currently learning:Adobe Illustrator, Figma
-- 📫 How to reach me:[Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP), [Discord](https://discord.com/users/1004192324076699788), [LINE](https://line.me/ti/p/KaTvFcbhCR), [WhatsApp](https://wa.me/819044285643), [LinkedIn](https://www.linkedin.com/in/ochtum)
+- 📫 How to reach me:[Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP), [Discord](https://discord.com/users/1004192324076699788), [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - 😄 Pronouns:He/him/his  
 
 ## 🛠 Skills
@@ -16,5 +16,8 @@
 
 ## 📞 Contact Me
 - Email: [j-takeda@sky-field.co.jp](mailto:j-takeda@sky-field.co.jp)
+- LINE: [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ochtum)
-- WhatsApp: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- WhatsApp: [WhatsApp](https://wa.me/819044285643)
+- Facebook: [Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP)
+- Discord: [Discord](https://discord.com/users/1004192324076699788)
