@@ -10,3 +10,6 @@
 - Languages: C#, VB, VBA, PHP, JavaScript, HTML, CSS
 - Frameworks: dotnet, Bootstrap
 - Tools: Git, Docker, Azure, GCP
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
