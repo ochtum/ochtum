@@ -10,8 +10,8 @@
 ### Developer
 - Languages: C#, VB, VBA, PHP, JavaScript, HTML, CSS, COBOL
 - FrontEnd: Blazor, HTML5 ,CSS3, Javascript
-- Backend: Blazor,
-- Frameworks: dotnet, Bootstrap
+- Backend: Blazor
+- Framework: dotnet, Bootstrap
 - Developer Tools: Git, Docker, Postman, VS Code, Visual Studio
 - Server Management: Apache, Nginx
 - Databese: Maria DB, MySQL, SQL Server
@@ -20,6 +20,12 @@
 - Cloud Infrastructure: Envoy, Zipkin, Dapr
 - Network Device: Aruba Wifi, HP Managed L2 Switch, Froti Gate
 
+### Web Production
+- Languages: PHP, HTML5, CSS3
+- Framework: Bootstlap, Tailwind CSS
+- WireFrame: Figma
+- CMS: Wordpress
+  
 ### Web Marketer
 - GoogleAnalytics
 - WebWriter
