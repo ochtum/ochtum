@@ -33,12 +33,14 @@
 - WebWriter
 - MEO Optimization
 - SEO Optimization
-- Video Content Creation
-- Image Content Creation
 - SNS Management(Instagram, Facebook, Twittter, Tiktok, Youtube)
 - Customer Journey Map Creation
 - Market Analysis
 - Marketing Strategy Formulation
+
+### Contents Creator
+- Video Content Creation(ClipChamp, DaVinci Resolve)
+- Image Content Creation(Illustrator, GIMP)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
