@@ -16,7 +16,7 @@
 - Framework: dotnet
 - Developer Tools: Git, Docker, Postman, VS Code, Visual Studio
 - Server Management: Apache, Nginx
-- Database: Maria DB, MySQL, SQL Server
+- Database: Maria DB, MySQL, SQL Server, Oracle
 - DevOps Tool: Docker
 - Cloud Platform: Azure, GCP
 - Cloud Infrastructure: Envoy, Zipkin, Dapr
