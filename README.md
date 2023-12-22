@@ -46,7 +46,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
 
 ## 📞 Contact Me
-- Email: [j-takeda@sky-field.co.jp](mailto:j-takeda@sky-field.co.jp)
+- Email: [neko081877@yahoo.co.jp](mailto:neko081877@yahoo.co.jp)
 - LINE: [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ochtum)
 - WhatsApp: [WhatsApp](https://wa.me/819044285643)
