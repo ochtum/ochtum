@@ -51,12 +51,12 @@
 - Qiita: [Qiita](https://qiita.com/ochtum)
 - Zenn.dev: [Zenn.dev](https://zenn.dev/ochtum)
 - Quora: [Quora](https://jp.quora.com/profile/Junichi-Takeda-1)
+- LINE: [LINE](https://line.me/ti/p/KaTvFcbhCR)
+- Facebook: [Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP)
 
 ## 📞 Contact Me
 - Email: [neko081877@yahoo.co.jp](mailto:neko081877@yahoo.co.jp)
-- LINE: [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ochtum)
 - WhatsApp: [WhatsApp](https://wa.me/819044285643)
-- Facebook: [Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP)
 - Discord: [Discord](https://discord.com/users/544655741626351616)
 
