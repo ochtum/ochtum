@@ -47,7 +47,7 @@
 
 ## SNS
 - Instagram: [Instagram](https://www.instagram.com/j.takeda77/)
-- note: [note](https://note.com/good_kalmia726)
+- note: [note](https://note.com/ochtum)
 - Qiita: [Qiita](https://qiita.com/ochtum)
 - Zenn.dev: [Zenn.dev](https://zenn.dev/ochtum)
 - Quora: [Quora](https://jp.quora.com/profile/Junichi-Takeda-1)
