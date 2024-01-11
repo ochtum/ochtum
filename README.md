@@ -3,7 +3,7 @@
 ## 👤 About Me
 - 🔭 I’m currently working on:new business project
 - 🌱 I’m currently learning:Adobe Illustrator, Figma
-- 📫 How to reach me: [Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP), [Discord](https://discord.com/users/544655741626351616), [LINE](https://line.me/ti/p/KaTvFcbhCR)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/ochtum18?locale=ja_JP), [Discord](https://discord.com/users/544655741626351616), [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - 😄 Pronouns: He/him/his  
 
 ## 🛠 Skills
@@ -52,7 +52,7 @@
 - Zenn.dev: [Zenn.dev](https://zenn.dev/ochtum)
 - Quora: [Quora](https://jp.quora.com/profile/Junichi-Takeda-1)
 - LINE: [LINE](https://line.me/ti/p/KaTvFcbhCR)
-- Facebook: [Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP)
+- Facebook: [Facebook](https://www.facebook.com/ochtum18?locale=ja_JP)
 
 ## 📞 Contact Me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ochtum)
