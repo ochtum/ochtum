@@ -55,7 +55,6 @@
 - Facebook: [Facebook](https://www.facebook.com/j.takeda77?locale=ja_JP)
 
 ## 📞 Contact Me
-- Email: [neko081877@yahoo.co.jp](mailto:neko081877@yahoo.co.jp)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ochtum)
 - WhatsApp: [WhatsApp](https://wa.me/819044285643)
 - Discord: [Discord](https://discord.com/users/544655741626351616)
