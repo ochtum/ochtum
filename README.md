@@ -46,7 +46,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
 
 ## SNS
-- Instagram: [Instagram](https://www.instagram.com/j.takeda77/)
+- Instagram: [Instagram](https://www.instagram.com/ochtum18/)
 - note: [note](https://note.com/ochtum)
 - Qiita: [Qiita](https://qiita.com/ochtum)
 - Zenn.dev: [Zenn.dev](https://zenn.dev/ochtum)
