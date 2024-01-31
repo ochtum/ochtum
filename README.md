@@ -2,26 +2,26 @@
 
 ## 👤 About Me
 - 🔭 I’m currently working on:new business project
-- 🌱 I’m currently learning:Adobe Illustrator, Figma
+- 🌱 I’m currently learning:TypeScript, React, Figma
 - 📫 How to reach me: [Facebook](https://www.facebook.com/ochtum18?locale=ja_JP), [Discord](https://discord.com/users/544655741626351616), [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - 😄 Pronouns: He/him/his  
 
 ## 🛠 Skills
 ### Shared Items
-- Languages: C#, VB, VBA, PHP, JavaScript, HTML, CSS, COBOL
+- Languages: C#, VB, VBA, PHP, JavaScript,TypeScript HTML, CSS, COBOL
 
 ### Developer
-- FrontEnd: Blazor
+- FrontEnd: Blazor, React
 - Backend: Blazor
 - Framework: dotnet
 - Developer Tools: Git, Docker, Postman, VS Code, Visual Studio
-- Server Management: Apache, Nginx
+- Web Server: Apache, Nginx
 - Database: Maria DB, MySQL, SQL Server, Oracle
 - DevOps Tool: Docker
 - Cloud Platform: Azure, GCP
 - Cloud Infrastructure: Envoy, Zipkin, Dapr
 - Server OS: Ubuntu, Cent OS, Windows Server
-- Network Device: Aruba Wifi, HP Managed L2 Switch, Froti Gate
+- Network Device: Aruba Wifi AP, HP Managed L2 Switch, Froti Gate
 
 ### Web Production
 - Framework: Bootstrap, Tailwind CSS
