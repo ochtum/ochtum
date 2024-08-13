@@ -42,6 +42,9 @@
 - Video Content Creation(ClipChamp, DaVinci Resolve)
 - Image Content Creation(Illustrator, GIMP)
 
+## Programming Languages
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ochtum&show_icons=true&locale=en&layout=compact)
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
 
