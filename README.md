@@ -8,7 +8,7 @@
 
 ## 🛠 Skills
 ### Shared Items
-- Languages: C#, VB, VBA, PHP, JavaScript,TypeScript HTML, CSS, COBOL
+- Languages: ![](https://skillicons.dev/icons?i=cs,php,js,typescript,html,css)
 
 ### Developer
 - FrontEnd: Blazor, React
