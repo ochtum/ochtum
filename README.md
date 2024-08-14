@@ -9,6 +9,7 @@
 ## 🛠 Skills
 ### Programming Languages
 ![](https://skillicons.dev/icons?i=cs,php,js,ts,html,css)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ochtum&show_icons=true&locale=en&layout=compact)
 
 ### Framework and Library
