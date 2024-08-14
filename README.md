@@ -10,15 +10,19 @@
 ### Languages
 ![](https://skillicons.dev/icons?i=cs,php,js,ts,html,css)
 
+### Framework & Platform
 ![](https://skillicons.dev/icons?i=dotnet,nodejs,react,sass,tailwind,vite)
 ![](https://skillicons.dev/icons?i=ps,postman,git,github,visualstudio,wordperss)
 ![](https://skillicons.dev/icons?i=mysql)
 ![](https://skillicons.dev/icons?i=figma,ai)
 ![](https://skillicons.dev/icons?i=linux,ubuntu,docker)
 ![](https://skillicons.dev/icons?i=nginx)
+
+### TestTool
 ![](https://skillicons.dev/icons?i=selenium)
 
-![](https://skillicons.dev/icons?i=azure,gcp,cloudflare)
+### Cloud Platform
+![](https://skillicons.dev/icons?i=azure,gcp,aws,cloudflare)
 
 ### Developer
 - FrontEnd: Blazor, React
