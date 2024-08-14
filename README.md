@@ -16,7 +16,7 @@
 ![](https://skillicons.dev/icons?i=dotnet,nodejs,react,sass,tailwind,vite)
 
 ### DevTools
-![](https://skillicons.dev/icons?i=ps,postman,git,github,visualstudio,wordperss,selenium,nginx,figma,ai)
+![](https://skillicons.dev/icons?i=powershell,postman,git,github,visualstudio,wordperss,selenium,nginx,figma,ai)
 
 ### Platform
 ![](https://skillicons.dev/icons?i=azure,gcp,aws,cloudflare,windows,linux,ubuntu,docker,mysql)
