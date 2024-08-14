@@ -7,57 +7,18 @@
 - 😄 Pronouns: He/him/his  
 
 ## 🛠 Skills
-### Languages
+### Programming Languages
 ![](https://skillicons.dev/icons?i=cs,php,js,ts,html,css)
-
-### Framework & Platform
-![](https://skillicons.dev/icons?i=dotnet,nodejs,react,sass,tailwind,vite)
-![](https://skillicons.dev/icons?i=ps,postman,git,github,visualstudio,wordperss)
-![](https://skillicons.dev/icons?i=mysql)
-![](https://skillicons.dev/icons?i=figma,ai)
-![](https://skillicons.dev/icons?i=linux,ubuntu,docker)
-![](https://skillicons.dev/icons?i=nginx)
-
-### TestTool
-![](https://skillicons.dev/icons?i=selenium)
-
-### Cloud Platform
-![](https://skillicons.dev/icons?i=azure,gcp,aws,cloudflare)
-
-### Developer
-- FrontEnd: Blazor, React
-- Backend: Blazor
-- Framework: dotnet
-- Developer Tools: Git, Docker, Postman, VS Code, Visual Studio
-- Web Server: Apache, Nginx
-- Database: Maria DB, MySQL, SQL Server, Oracle
-- DevOps Tool: Docker
-- Cloud Platform: Azure, GCP
-- Cloud Infrastructure: Envoy, Zipkin, Dapr
-- Server OS: Ubuntu, Cent OS, Windows Server
-- Network Device: Aruba Wifi AP, HP Managed L2 Switch, Froti Gate
-
-### Web Production
-- Framework: Bootstrap, Tailwind CSS
-- WireFrame: Figma
-- CMS: Wordpress
-  
-### Web Marketer
-- GoogleAnalytics
-- WebWriter
-- MEO Optimization
-- SEO Optimization
-- SNS Management(Instagram, Facebook, Twittter, Tiktok, Youtube)
-- Customer Journey Map Creation
-- Market Analysis
-- Marketing Strategy Formulation
-
-### Contents Creator
-- Video Content Creation(ClipChamp, DaVinci Resolve)
-- Image Content Creation(Illustrator, GIMP)
-
-## Programming Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ochtum&show_icons=true&locale=en&layout=compact)
+
+### Framework and Library
+![](https://skillicons.dev/icons?i=dotnet,nodejs,react,sass,tailwind,vite)
+
+### DevTools
+![](https://skillicons.dev/icons?i=ps,postman,git,github,visualstudio,wordperss,selenium,nginx,figma,ai)
+
+### Platform
+![](https://skillicons.dev/icons?i=azure,gcp,aws,cloudflare,windows,linux,ubuntu,docker,mysql)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
