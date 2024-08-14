@@ -7,8 +7,18 @@
 - 😄 Pronouns: He/him/his  
 
 ## 🛠 Skills
-### Shared Items
-- Languages: ![](https://skillicons.dev/icons?i=cs,php,js,typescript,html,css)
+### Languages
+![](https://skillicons.dev/icons?i=cs,php,js,ts,html,css)
+
+![](https://skillicons.dev/icons?i=dotnet,nodejs,react,sass,tailwind,vite)
+![](https://skillicons.dev/icons?i=ps,postman,git,github,visualstudio,wordperss)
+![](https://skillicons.dev/icons?i=mysql)
+![](https://skillicons.dev/icons?i=figma,ai)
+![](https://skillicons.dev/icons?i=linux,ubuntu,docker)
+![](https://skillicons.dev/icons?i=nginx)
+![](https://skillicons.dev/icons?i=selenium)
+
+![](https://skillicons.dev/icons?i=azure,gcp,cloudflare)
 
 ### Developer
 - FrontEnd: Blazor, React
