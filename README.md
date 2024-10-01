@@ -24,6 +24,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ochtum&theme=2077)
 ## SNS
 - Instagram: [Instagram](https://www.instagram.com/ochtum18/)
 - note: [note](https://note.com/ochtum)
