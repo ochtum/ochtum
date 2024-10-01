@@ -22,7 +22,7 @@
 ![](https://skillicons.dev/icons?i=azure,gcp,aws,cloudflare,windows,linux,ubuntu,docker,mysql)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical&include_all_commits=true)
 
 ## SNS
 - Instagram: [Instagram](https://www.instagram.com/ochtum18/)
