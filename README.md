@@ -1,5 +1,7 @@
 # 👋Hi there! I'm Junichi Takeda
 
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/ochtum?&logoColor=0e75b6&style=flat">](https://github.com/ochtum?tab=followers)
+[<img src="https://komarev.com/ghpvc/?username=ochtum&label=Profile%20views&color=0e75b6&style=flat" alt="ochtum" />](https://github.com/ochtum?tab=followers)
 ## 👤 About Me
 - 🔭 I’m currently working on:new business project
 - 🌱 I’m currently learning:TypeScript, React, Figma
@@ -22,9 +24,25 @@
 ![](https://skillicons.dev/icons?i=azure,gcp,aws,cloudflare,windows,linux,ubuntu,docker,mysql)
 
 ## 📈 GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ochtum&theme=2077)
+
+## ✨ My Projects 
+<a href="https://github.com/ochtum/DaprMultiContainer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=DaprMultiContainer&theme=tokyonight" />
+</a>
+<a href="https://github.com/ochtum/TypeScriptLeaning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=TypeScriptLeaning&theme=tokyonight" />
+</a>
+<a href="https://github.com/ochtum/LinkToAllEmployeeList">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=LinkToAllEmployeeList&theme=tokyonight" />
+</a>
+<a href="https://github.com/ochtum/GoogleDriveAddPermission">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=GoogleDriveAddPermission&theme=tokyonight" />
+</a>
+
 ## SNS
 - Instagram: [Instagram](https://www.instagram.com/ochtum18/)
 - note: [note](https://note.com/ochtum)
