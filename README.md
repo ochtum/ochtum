@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode-generator-code&theme=tokyonight" />
 </a>
 <a href="https://github.com/tldraw/tldraw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tldraw&tldraw&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tldraw&repo=tldraw&theme=tokyonight" />
 </a>
 
 ## 📱 SNS
