@@ -43,7 +43,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=GoogleDriveAddPermission&theme=tokyonight" />
 </a>
 
-## SNS
+## 🌟 Open Source Contributions
+<a href="https://github.com/Coggle/coggle-translations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coggle&repo=coggle-translations&theme=tokyonight" />
+</a>
+<a href="https://github.com/linkwarden/linkwarden">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkwarden&repo=linkwarden&theme=tokyonight" />
+</a>
+<a href="https://github.com/microsoft/vscode-generator-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode-generator-code&theme=tokyonight" />
+</a>
+
+## 📱 SNS
 - Instagram: [Instagram](https://www.instagram.com/ochtum18/)
 - note: [note](https://note.com/ochtum)
 - Qiita: [Qiita](https://qiita.com/ochtum)
