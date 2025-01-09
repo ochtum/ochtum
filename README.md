@@ -1,8 +1,8 @@
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&letterSpacing=0.3rem&pause=1000&color=16C47F&width=435&lines=Hi+there+I'm+Junichi+Takeda.)" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&letterSpacing=0.3rem&pause=1000&color=16C47F&vCenter=true&width=435&height=40&lines=Hi+there+I'm+Junichi+Takeda." /></a>
 </div>
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&letterSpacing=0.3rem&pause=1000&color=16C47F&width=435&lines=Welcome+to+my+profile!!)" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&letterSpacing=0.3rem&pause=1000&color=16C47F&vCenter=true&width=435&height=40&lines=Welcome+to+my+profile!!" /></a>
 </div>
 
 # 👋Hi there! I'm Junichi Takeda
