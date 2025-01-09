@@ -1,3 +1,10 @@
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&letterSpacing=0.3rem&pause=1000&color=16C47F&width=435&lines=Hi+there+I'm+Junichi+Takeda.)" /></a>
+</div>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&letterSpacing=0.3rem&pause=1000&color=16C47F&width=435&lines=Welcome+to+my+profile!!)" /></a>
+</div>
+
 # 👋Hi there! I'm Junichi Takeda
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/ochtum?&logoColor=0e75b6&style=flat">](https://github.com/ochtum?tab=followers)
