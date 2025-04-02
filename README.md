@@ -37,6 +37,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ochtum&theme=2077)
 
 ## ✨ My Projects 
+<a href="https://github.com/ochtum/SVG-Study">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=SVG-Study&theme=tokyonight" />
+</a>
+<a href="https://github.com/ochtum/YamlSettingTest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=YamlSettingTest&theme=tokyonight" />
+</a>
 <a href="https://github.com/ochtum/DaprMultiContainer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=DaprMultiContainer&theme=tokyonight" />
 </a>
