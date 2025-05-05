@@ -72,9 +72,7 @@
 
 ## 📱 SNS
 - Instagram: [Instagram](https://www.instagram.com/ochtum18/)
-- note: [note](https://note.com/ochtum)
 - Qiita: [Qiita](https://qiita.com/ochtum)
-- Zenn.dev: [Zenn.dev](https://zenn.dev/ochtum)
 - Quora: [Quora](https://jp.quora.com/profile/Junichi-Takeda-1)
 - LINE: [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - Facebook: [Facebook](https://www.facebook.com/ochtum18?locale=ja_JP)
