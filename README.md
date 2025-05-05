@@ -71,14 +71,9 @@
 </a>
 
 ## 📱 SNS
-- Instagram: [Instagram](https://www.instagram.com/ochtum18/)
 - Qiita: [Qiita](https://qiita.com/ochtum)
-- Quora: [Quora](https://jp.quora.com/profile/Junichi-Takeda-1)
 - LINE: [LINE](https://line.me/ti/p/KaTvFcbhCR)
-- Facebook: [Facebook](https://www.facebook.com/ochtum18?locale=ja_JP)
 
 ## 📞 Contact Me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ochtum)
-- WhatsApp: [WhatsApp](https://wa.me/819044285643)
 - Discord: [Discord](https://discord.com/users/544655741626351616)
 
