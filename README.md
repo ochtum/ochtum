@@ -12,7 +12,7 @@
 ## 👤 About Me
 - 🔭 I’m currently working on:new business project
 - 🌱 I’m currently learning:TypeScript, React, Figma
-- 📫 How to reach me: [Facebook](https://www.facebook.com/ochtum18?locale=ja_JP), [Discord](https://discord.com/users/544655741626351616), [LINE](https://line.me/ti/p/KaTvFcbhCR)
+- 📫 How to reach me: [Discord](https://discord.com/users/544655741626351616), [LINE](https://line.me/ti/p/KaTvFcbhCR)
 - 😄 Pronouns: He/him/his  
 
 ## 🛠 Skills
