@@ -5,6 +5,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&letterSpacing=0.3rem&pause=1000&color=16C47F&vCenter=true&width=435&height=40&lines=Welcome+to+my+profile!!" /></a>
 </div>
 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ochtum18)
+
 ---
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/ochtum?&logoColor=0e75b6&style=flat">](https://github.com/ochtum?tab=followers)
