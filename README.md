@@ -39,6 +39,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ochtum&theme=2077)
 
 ## ✨ My Projects 
+<a href="https://github.com/ochtum/TechBlogWriter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=TechBlogWriter&theme=tokyonight" />
+</a>
 <a href="https://github.com/ochtum/BlazorWebAsemblyTest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=BlazorWebAsemblyTest&theme=tokyonight" />
 </a>
