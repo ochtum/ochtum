@@ -42,6 +42,9 @@
 <a href="https://github.com/ochtum/TechBlogWriter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=TechBlogWriter&theme=tokyonight" />
 </a>
+<a href="https://github.com/ochtum/blazor-gantt-chart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=blazor-gantt-chart&theme=tokyonight" />
+</a>
 <a href="https://github.com/ochtum/BlazorWebAsemblyTest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochtum&repo=BlazorWebAsemblyTest&theme=tokyonight" />
 </a>
