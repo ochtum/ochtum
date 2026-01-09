@@ -34,7 +34,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ochtum&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-one-sigma-78.vercel.app/api/?username=ochtum&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ochtum&theme=2077)
 
