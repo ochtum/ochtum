@@ -39,6 +39,18 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ochtum&theme=2077)
 
 ## ✨ My Projects 
+<a href="https://github.com/ochtum/ClaudeSessionsViewer">
+  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=ClaudeSessionsViewer&theme=tokyonight" />
+</a>
+<a href="https://github.com/ochtum/CodexSessionsViewer">
+  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=CodexSessionsViewer&theme=tokyonight" />
+</a>
+<a href="https://github.com/ochtum/GitHubCopilotSessionsViewer">
+  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=GitHubCopilotSessionsViewer&theme=tokyonight" />
+</a>
+<a href="https://github.com/ochtum/BandleManager">
+  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=BandleManager&theme=tokyonight" />
+</a>
 <a href="https://github.com/ochtum/TechBlogWriter">
   <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=TechBlogWriter&theme=tokyonight" />
 </a>
