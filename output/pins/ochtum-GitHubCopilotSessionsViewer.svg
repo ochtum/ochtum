@@ -6,7 +6,7 @@
     </linearGradient>
     <style>
       .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
-      .desc { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
+      .desc { font: 500 14px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
       .traffic-label { font: 600 9px 'Segoe UI', Arial, sans-serif; fill: #93C5FD; }
       .traffic-value { font: 700 17px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .meta { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
@@ -34,8 +34,8 @@
   </g>
   <text x="62" y="40" class="title">GitHubCopilotSessionsViewer</text>
   <text x="24" y="70" class="desc">Windows ユーザープロファイル配下の C:\Users\&lt;User&gt;\.copilot\sess</text>
-  <text x="24" y="86" class="desc">ion-state を読み込み、GitHub Copilotのセッションを一覧・詳細表示</text>
-  <text x="24" y="102" class="desc">するローカル Viewer です。</text>
+  <text x="24" y="87" class="desc">ion-state を読み込み、GitHub Copilotのセッションを一覧・詳細表示</text>
+  <text x="24" y="104" class="desc">するローカル Viewer です。</text>
   <rect x="24" y="124" width="447" height="58" rx="8" class="traffic-panel" />
   <line x1="135" y1="132" x2="135" y2="174" class="traffic-sep" />
   <line x1="246" y1="132" x2="246" y2="174" class="traffic-sep" />
