@@ -1,24 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="GitHub profile stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="GitHub profile stats with contribution trend">
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0F172A" />
-      <stop offset="100%" stop-color="#111827" />
+      <stop offset="0%" stop-color="#090E2C" />
+      <stop offset="100%" stop-color="#041738" />
+    </linearGradient>
+    <linearGradient id="area" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#16F2D1" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.25" />
     </linearGradient>
     <style>
-      .title { font: 700 22px 'Segoe UI', Arial, sans-serif; fill: #F8FAFC; }
-      .login { font: 500 14px 'Segoe UI', Arial, sans-serif; fill: #93C5FD; }
-      .item { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
-      .meta { font: 500 12px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
+      .title { font: 700 26px 'Segoe UI', Arial, sans-serif; fill: #F43F98; }
+      .login { font: 700 12px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
+      .label { font: 600 11px 'Segoe UI', Arial, sans-serif; fill: #7DD3FC; }
+      .value { font: 700 11px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
+      .axis { font: 600 9px 'Segoe UI', Arial, sans-serif; fill: #38BDF8; }
+      .xaxis { font: 600 8px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
+      .meta { font: 600 10px 'Segoe UI', Arial, sans-serif; fill: #64748B; }
+      .chart-title { font: 700 8px 'Segoe UI', Arial, sans-serif; fill: #06B6D4; }
     </style>
   </defs>
-  <rect x="0" y="0" width="495" height="210" rx="18" fill="url(#bg)" />
-  <rect x="1" y="1" width="493" height="208" rx="17" fill="none" stroke="#1E293B" />
-  <text x="24" y="40" class="title">Ochtum</text>
-  <text x="24" y="60" class="login">@ochtum</text>
-  <text x="24" y="95" class="item">• 125 Contributions this year</text>
-  <text x="24" y="120" class="item">• 20 Public repositories</text>
-  <text x="24" y="145" class="item">• 22 Followers</text>
-  <text x="24" y="170" class="item">• Joined GitHub 2022-12-27</text>
-  <text x="24" y="194" class="meta">Updated 2026-03-05 15:56 UTC</text>
+  <rect x="0" y="0" width="495" height="210" rx="8" fill="url(#bg)" />
+  <rect x="1" y="1" width="493" height="208" rx="7" fill="none" stroke="#1E3A8A" />
+  <text x="18" y="26" class="title">ochtum (Ochtum)</text>
+  <text x="18" y="45" class="login">@ochtum</text>
+  <circle cx="20" cy="66" r="3" fill="#FACC15" />
+  <text x="28" y="69" class="value">125 Contributions in 2026</text>
+  <circle cx="20" cy="84" r="3" fill="#22D3EE" />
+  <text x="28" y="87" class="value">20 Public Repositories</text>
+  <circle cx="20" cy="102" r="3" fill="#84CC16" />
+  <text x="28" y="105" class="value">Joined GitHub 3 years ago</text>
+  <circle cx="20" cy="120" r="3" fill="#A78BFA" />
+  <text x="28" y="123" class="value">22 Followers</text>
+  <circle cx="20" cy="138" r="3" fill="#F472B6" />
+  <text x="28" y="141" class="value">Tokyo</text>
+  <text x="373" y="16" class="chart-title">contributions in the last 8 weeks</text>
+  <rect x="224" y="32" width="245" height="132" rx="4" fill="#020817" fill-opacity="0.25" />
+  <line x1="224" y1="32" x2="469" y2="32" stroke="#1E3A8A" stroke-opacity="0.55" />
+  <text x="475" y="35" class="axis">20</text>
+  <line x1="224" y1="65" x2="469" y2="65" stroke="#1E3A8A" stroke-opacity="0.55" />
+  <text x="475" y="68" class="axis">15</text>
+  <line x1="224" y1="98" x2="469" y2="98" stroke="#1E3A8A" stroke-opacity="0.55" />
+  <text x="475" y="101" class="axis">10</text>
+  <line x1="224" y1="131" x2="469" y2="131" stroke="#1E3A8A" stroke-opacity="0.55" />
+  <text x="475" y="134" class="axis">5</text>
+  <line x1="224" y1="164" x2="469" y2="164" stroke="#1E3A8A" stroke-opacity="0.55" />
+  <text x="475" y="167" class="axis">0</text>
+  <path d="M 224 164 L 224 131 L 228.45 164 L 232.91 164 L 237.36 164 L 241.82 164 L 246.27 164 L 250.73 164 L 255.18 164 L 259.64 164 L 264.09 164 L 268.55 164 L 273 124.4 L 277.45 150.8 L 281.91 131 L 286.36 157.4 L 290.82 164 L 295.27 164 L 299.73 164 L 304.18 164 L 308.64 164 L 313.09 164 L 317.55 157.4 L 322 164 L 326.45 164 L 330.91 144.2 L 335.36 157.4 L 339.82 164 L 344.27 164 L 348.73 164 L 353.18 164 L 357.64 164 L 362.09 164 L 366.55 131 L 371 164 L 375.45 164 L 379.91 164 L 384.36 164 L 388.82 164 L 393.27 150.8 L 397.73 98 L 402.18 131 L 406.64 124.4 L 411.09 144.2 L 415.55 164 L 420 164 L 424.45 164 L 428.91 137.6 L 433.36 98 L 437.82 91.4 L 442.27 98 L 446.73 144.2 L 451.18 164 L 455.64 137.6 L 460.09 51.8 L 464.55 131 L 469 150.8 L 469 164 Z" fill="url(#area)" stroke="none" />
+  <path d="M 224 131 L 228.45 164 L 232.91 164 L 237.36 164 L 241.82 164 L 246.27 164 L 250.73 164 L 255.18 164 L 259.64 164 L 264.09 164 L 268.55 164 L 273 124.4 L 277.45 150.8 L 281.91 131 L 286.36 157.4 L 290.82 164 L 295.27 164 L 299.73 164 L 304.18 164 L 308.64 164 L 313.09 164 L 317.55 157.4 L 322 164 L 326.45 164 L 330.91 144.2 L 335.36 157.4 L 339.82 164 L 344.27 164 L 348.73 164 L 353.18 164 L 357.64 164 L 362.09 164 L 366.55 131 L 371 164 L 375.45 164 L 379.91 164 L 384.36 164 L 388.82 164 L 393.27 150.8 L 397.73 98 L 402.18 131 L 406.64 124.4 L 411.09 144.2 L 415.55 164 L 420 164 L 424.45 164 L 428.91 137.6 L 433.36 98 L 437.82 91.4 L 442.27 98 L 446.73 144.2 L 451.18 164 L 455.64 137.6 L 460.09 51.8 L 464.55 131 L 469 150.8" fill="none" stroke="#06B6D4" stroke-width="2" />
+  <text x="224" y="177" class="xaxis" text-anchor="middle">01/09</text>
+  <text x="273" y="177" class="xaxis" text-anchor="middle">01/20</text>
+  <text x="322" y="177" class="xaxis" text-anchor="middle">01/31</text>
+  <text x="371" y="177" class="xaxis" text-anchor="middle">02/11</text>
+  <text x="420" y="177" class="xaxis" text-anchor="middle">02/22</text>
+  <text x="469" y="177" class="xaxis" text-anchor="middle">03/05</text>
+  <text x="18" y="198" class="meta">Updated 2026-03-05 17:51 UTC</text>
 </svg>
 
