@@ -51,7 +51,7 @@
     </td>
   </tr>
   <tr>
-  　<td width="100%" valign="top">
+    <td width="100%" valign="top">
       <img width="100%" src="./output/public-repo-totals.svg">
     </td>
   </tr>
