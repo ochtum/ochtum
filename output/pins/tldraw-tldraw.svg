@@ -7,8 +7,8 @@
     <style>
       .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
       .desc { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
-      .traffic-label { font: 600 10px 'Segoe UI', Arial, sans-serif; fill: #93C5FD; }
-      .traffic-value { font: 700 15px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
+      .traffic-label { font: 600 9px 'Segoe UI', Arial, sans-serif; fill: #93C5FD; }
+      .traffic-value { font: 700 17px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .meta { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .sub { font: 500 11px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
       .badge-text { font: 700 9px 'Segoe UI', Arial, sans-serif; text-anchor: middle; }
