@@ -1,5 +1,7 @@
 {
   "username": "ochtum",
+  "displayTimeZone": "Asia/Tokyo",
+  "displayTimeZoneLabel": "JST",
   "repositories": [
     "ochtum/CaptureScreenMCP",
     "ochtum/SlackEmojiBookmaker",
