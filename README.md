@@ -25,7 +25,7 @@
 
 ![](https://skillicons.dev/icons?i=cs,php,js,ts,html,css)
 
-![](https://github-readme-stats-one-sigma-78.vercel.app/api/top-langs?username=ochtum&show_icons=true&locale=en&layout=compact)
+![](./output/top-languages.svg)
 
 ### Framework and Library
 
@@ -43,73 +43,122 @@
 
 ![Your GitHub stats](https://github-readme-stats-one-sigma-78.vercel.app/api/?username=ochtum&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ochtum&theme=2077)
+![](./output/stats.svg)
 
 ## ✨ My Projects
 
-<a href="https://github.com/ochtum/CaptureScreenMCP">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=CaptureScreenMCP&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/SlackEmojiBookmaker">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=SlackEmojiBookmaker&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/ClaudeSessionsViewer">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=ClaudeSessionsViewer&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/CodexSessionsViewer">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=CodexSessionsViewer&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/GitHubCopilotSessionsViewer">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=GitHubCopilotSessionsViewer&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/BandleManager">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=BandleManager&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/TechBlogWriter">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=TechBlogWriter&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/blazor-gantt-chart">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=blazor-gantt-chart&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/BlazorWebAsemblyTest">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=BlazorWebAsemblyTest&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/CSharpKnowledge">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=CSharpKnowledge&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/SVG-Study">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=SVG-Study&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/YamlSettingTest">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=YamlSettingTest&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/DaprMultiContainer">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=DaprMultiContainer&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/TypeScriptLeaning">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=TypeScriptLeaning&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/LinkToAllEmployeeList">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=LinkToAllEmployeeList&theme=tokyonight" />
-</a>
-<a href="https://github.com/ochtum/GoogleDriveAddPermission">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=GoogleDriveAddPermission&theme=tokyonight" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/CaptureScreenMCP">
+        <img width="100%" src="./output/pins/ochtum-CaptureScreenMCP.svg" alt="CaptureScreenMCP" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/SlackEmojiBookmaker">
+        <img width="100%" src="./output/pins/ochtum-SlackEmojiBookmaker.svg" alt="SlackEmojiBookmaker" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/ClaudeSessionsViewer">
+        <img width="100%" src="./output/pins/ochtum-ClaudeSessionsViewer.svg" alt="ClaudeSessionsViewer" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/CodexSessionsViewer">
+        <img width="100%" src="./output/pins/ochtum-CodexSessionsViewer.svg" alt="CodexSessionsViewer" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/GitHubCopilotSessionsViewer">
+        <img width="100%" src="./output/pins/ochtum-GitHubCopilotSessionsViewer.svg" alt="GitHubCopilotSessionsViewer" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/BandleManager">
+        <img width="100%" src="./output/pins/ochtum-BandleManager.svg" alt="BandleManager" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/TechBlogWriter">
+        <img width="100%" src="./output/pins/ochtum-TechBlogWriter.svg" alt="TechBlogWriter" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/blazor-gantt-chart">
+        <img width="100%" src="./output/pins/ochtum-blazor-gantt-chart.svg" alt="blazor-gantt-chart" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/BlazorWebAsemblyTest">
+        <img width="100%" src="./output/pins/ochtum-BlazorWebAsemblyTest.svg" alt="BlazorWebAsemblyTest" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/CSharpKnowledge">
+        <img width="100%" src="./output/pins/ochtum-CSharpKnowledge.svg" alt="CSharpKnowledge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/SVG-Study">
+        <img width="100%" src="./output/pins/ochtum-SVG-Study.svg" alt="SVG-Study" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/YamlSettingTest"><img width="100%" src="./output/pins/ochtum-YamlSettingTest.svg" alt="YamlSettingTest" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ochtum/DaprMultiContainer">
+        <img width="100%" src="./output/pins/ochtum-DaprMultiContainer.svg" alt="DaprMultiContainer" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/ochtum/TypeScriptLeaning"><img width="100%" src="./output/pins/ochtum-TypeScriptLeaning.svg" alt="TypeScriptLeaning" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/ochtum/LinkToAllEmployeeList"><img width="100%" src="./output/pins/ochtum-LinkToAllEmployeeList.svg" alt="LinkToAllEmployeeList" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/ochtum/GoogleDriveAddPermission"><img width="100%" src="./output/pins/ochtum-GoogleDriveAddPermission.svg" alt="GoogleDriveAddPermission" /></a></td>
+  </tr>
+</table>
 
 ## 🌟 Open Source Contributions
 
-<a href="https://github.com/Coggle/coggle-translations">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=Coggle&repo=coggle-translations&theme=tokyonight" />
-</a>
-<a href="https://github.com/linkwarden/linkwarden">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=linkwarden&repo=linkwarden&theme=tokyonight" />
-</a>
-<a href="https://github.com/microsoft/vscode-generator-code">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=microsoft&repo=vscode-generator-code&theme=tokyonight" />
-</a>
-<a href="https://github.com/tldraw/tldraw">
-  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=tldraw&repo=tldraw&theme=tokyonight" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Coggle/coggle-translations">
+        <img align="center" src="./output/pins/Coggle-coggle-translations.svg" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/linkwarden/linkwarden">
+        <img align="center" src="./output/pins/linkwarden-linkwarden.svg" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/microsoft/vscode-generator-code">
+        <img align="center" src="./output/pins/microsoft-vscode-generator-code.svg" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tldraw/tldraw">
+        <img align="center" src="./output/pins/tldraw-tldraw.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📱 SNS
 
