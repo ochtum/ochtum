@@ -44,10 +44,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      ![Your GitHub stats](/output/github-stats.svg)
+      <img width="100%" src="./output/github-stats.svg" />
     </td>
     <td width="50%" valign="top">
-      ![](./output/stats.svg)
+      <img width="100%" src="./output/stats.svg" />
     </td>
   </tr>
 </table>
