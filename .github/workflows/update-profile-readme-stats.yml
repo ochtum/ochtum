@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * 1" # Every Monday (UTC)
   workflow_dispatch:
 
+concurrency:
+  group: update-profile-readme-stats
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
