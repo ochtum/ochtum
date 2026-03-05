@@ -7,11 +7,14 @@
     <style>
       .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
       .desc { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
-      .traffic { font: 600 11px 'Segoe UI', Arial, sans-serif; fill: #BFDBFE; }
+      .traffic-label { font: 600 10px 'Segoe UI', Arial, sans-serif; fill: #93C5FD; }
+      .traffic-value { font: 700 15px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .meta { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .sub { font: 500 11px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
       .badge-text { font: 700 9px 'Segoe UI', Arial, sans-serif; text-anchor: middle; }
       .hint { font: 500 10px 'Segoe UI', Arial, sans-serif; fill: #64748B; }
+      .traffic-panel { fill: #0A1E3A; fill-opacity: 0.55; stroke: #1D4ED8; stroke-opacity: 0.65; }
+      .traffic-sep { stroke: #1D4ED8; stroke-opacity: 0.45; }
       .icon-frame { fill: #0F1E3D; stroke: #3B82F6; stroke-width: 1.4; }
       .icon-image-bg { fill: #0B1224; }
       .icon-shape { fill: none; stroke: #7DD3FC; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }

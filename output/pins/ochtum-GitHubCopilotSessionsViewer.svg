@@ -7,11 +7,14 @@
     <style>
       .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
       .desc { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
-      .traffic { font: 600 11px 'Segoe UI', Arial, sans-serif; fill: #BFDBFE; }
+      .traffic-label { font: 600 10px 'Segoe UI', Arial, sans-serif; fill: #93C5FD; }
+      .traffic-value { font: 700 15px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .meta { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .sub { font: 500 11px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
       .badge-text { font: 700 9px 'Segoe UI', Arial, sans-serif; text-anchor: middle; }
       .hint { font: 500 10px 'Segoe UI', Arial, sans-serif; fill: #64748B; }
+      .traffic-panel { fill: #0A1E3A; fill-opacity: 0.55; stroke: #1D4ED8; stroke-opacity: 0.65; }
+      .traffic-sep { stroke: #1D4ED8; stroke-opacity: 0.45; }
       .icon-frame { fill: #0F1E3D; stroke: #3B82F6; stroke-width: 1.4; }
       .icon-image-bg { fill: #0B1224; }
       .icon-shape { fill: none; stroke: #7DD3FC; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
@@ -30,13 +33,20 @@
     <circle cx="20" cy="8" r="2" class="icon-dot" />
   </g>
   <text x="62" y="40" class="title">GitHubCopilotSessionsViewer</text>
-  <text x="24" y="70" class="desc">Windows ユーザープロファイル配下の C:\Users\&lt;U</text>
-  <text x="24" y="86" class="desc">ser&gt;\.copilot\session-state を読み込み、GitHub</text>
-  <text x="24" y="102" class="desc">Copilotのセッションを一覧・詳細表示するロー...</text>
-  <text x="24" y="124" class="traffic">Git Clones total: 94</text>
-  <text x="24" y="138" class="traffic">Unique cloners total: 69</text>
-  <text x="24" y="152" class="traffic">Total views total: 58</text>
-  <text x="24" y="166" class="traffic">Unique visitors total: 8</text>
+  <text x="24" y="70" class="desc">Windows ユーザープロファイル配</text>
+  <text x="24" y="86" class="desc">下の C:\Users\&lt;User&gt;\.copilot\s</text>
+  <text x="24" y="102" class="desc">ession-state を読み込み、Git...</text>
+  <rect x="248" y="102" width="223" height="82" rx="8" class="traffic-panel" />
+  <line x1="359" y1="110" x2="359" y2="176" class="traffic-sep" />
+  <line x1="256" y1="143" x2="463" y2="143" class="traffic-sep" />
+  <text x="262" y="120" class="traffic-label">Git Clones</text>
+  <text x="262" y="138" class="traffic-value">94</text>
+  <text x="371" y="120" class="traffic-label">Unique Cloners</text>
+  <text x="371" y="138" class="traffic-value">69</text>
+  <text x="262" y="159" class="traffic-label">Total Views</text>
+  <text x="262" y="177" class="traffic-value">58</text>
+  <text x="371" y="159" class="traffic-label">Unique Visitors</text>
+  <text x="371" y="177" class="traffic-value">8</text>
   <text x="24" y="223" class="hint">Traffic since 2026-02-19 (last 2026-03-04)</text>
   <circle cx="28" cy="187" r="5" fill="#3572A5" />
   <text x="40" y="191" class="meta">Python</text>
