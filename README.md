@@ -48,7 +48,7 @@
 ## ✨ My Projects
 
 <a href="https://github.com/ochtum/CaptureScreenMCP">
-  <img align="center" src="./output/pins//ochtum-CaptureScreenMCP.svg" />
+  <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=CaptureScreenMCP&theme=tokyonight" />
 </a>
 <a href="https://github.com/ochtum/SlackEmojiBookmaker">
   <img align="center" src="https://github-readme-stats-one-sigma-78.vercel.app/api/pin/?username=ochtum&repo=SlackEmojiBookmaker&theme=tokyonight" />
