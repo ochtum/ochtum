@@ -5,9 +5,9 @@
       <stop offset="100%" stop-color="#0B1120" />
     </linearGradient>
     <style>
-      .title { font: 700 28px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
-      .desc { font: 500 16px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
-      .meta { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
+      .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
+      .desc { font: 500 14px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
+      .meta { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .sub { font: 500 12px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
     </style>
   </defs>

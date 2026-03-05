@@ -5,17 +5,18 @@
       <stop offset="100%" stop-color="#0B1120" />
     </linearGradient>
     <style>
-      .title { font: 700 28px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
-      .desc { font: 500 16px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
-      .meta { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
+      .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #60A5FA; }
+      .desc { font: 500 14px 'Segoe UI', Arial, sans-serif; fill: #22D3EE; }
+      .meta { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .sub { font: 500 12px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
     </style>
   </defs>
   <rect x="0" y="0" width="495" height="200" rx="8" fill="url(#bg)" />
   <rect x="1" y="1" width="493" height="198" rx="7" fill="none" stroke="#334155" />
   <text x="24" y="40" class="title">▣ GitHubCopilotSessionsViewer</text>
-  <text x="24" y="72" class="desc">Windows ユーザープロファイル配下の</text>
-  <text x="24" y="94" class="desc">C:\Users\&lt;User&gt;\.copilot\session-state...</text>
+  <text x="24" y="72" class="desc">Windows ユーザープロファイル配下の C:\Users\&lt;U</text>
+  <text x="24" y="90" class="desc">ser&gt;\.copilot\session-state を読み込み、GitHub</text>
+  <text x="24" y="108" class="desc">Copilotのセッションを一覧・詳細表示するロー...</text>
   <circle cx="28" cy="158" r="6" fill="#3572A5" />
   <text x="42" y="163" class="meta">Python</text>
   <text x="230" y="163" class="meta">★ 0</text>
