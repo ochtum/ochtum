@@ -41,9 +41,16 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats-one-sigma-78.vercel.app/api/?username=ochtum&show_icons=true&theme=radical)
-
-![](./output/stats.svg)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      ![Your GitHub stats](/output/github-stats.svg)
+    </td>
+    <td width="50%" valign="top">
+      ![](./output/stats.svg)
+    </td>
+  </tr>
+</table>
 
 ## ✨ My Projects
 
