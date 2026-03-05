@@ -1,0 +1,25 @@
+{
+  "username": "ochtum",
+  "repositories": [
+    "ochtum/CaptureScreenMCP",
+    "ochtum/SlackEmojiBookmaker",
+    "ochtum/ClaudeSessionsViewer",
+    "ochtum/CodexSessionsViewer",
+    "ochtum/GitHubCopilotSessionsViewer",
+    "ochtum/BandleManager",
+    "ochtum/TechBlogWriter",
+    "ochtum/blazor-gantt-chart",
+    "ochtum/BlazorWebAsemblyTest",
+    "ochtum/CSharpKnowledge",
+    "ochtum/SVG-Study",
+    "ochtum/YamlSettingTest",
+    "ochtum/DaprMultiContainer",
+    "ochtum/TypeScriptLeaning",
+    "ochtum/LinkToAllEmployeeList",
+    "ochtum/GoogleDriveAddPermission",
+    "Coggle/coggle-translations",
+    "linkwarden/linkwarden",
+    "microsoft/vscode-generator-code",
+    "tldraw/tldraw"
+  ]
+}
