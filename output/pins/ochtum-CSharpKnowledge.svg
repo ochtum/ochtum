@@ -32,12 +32,17 @@
   <text x="62" y="40" class="title">CSharpKnowledge</text>
   <text x="24" y="70" class="desc">CSharp技術者が抑えておいたほうがいいSNS/サイト</text>
   <text x="24" y="86" class="desc">/レポジトリ集</text>
-  <circle cx="28" cy="162" r="5" fill="#94A3B8" />
-  <text x="40" y="166" class="meta">Unknown</text>
-  <text x="220" y="166" class="meta">★ 2</text>
-  <text x="300" y="166" class="meta">⑂ 1</text>
-  <text x="24" y="184" class="sub">ochtum/CSharpKnowledge</text>
-  <rect x="413" y="173" width="58" height="15" rx="7" fill="#0F766E" stroke="#14B8A6" />
-  <text x="442" y="183" class="badge-text" fill="#CCFBF1">PUBLIC</text>
+  <text x="24" y="124" class="traffic">Git Clones total: 1</text>
+  <text x="24" y="138" class="traffic">Unique cloners total: 1</text>
+  <text x="24" y="152" class="traffic">Total views total: 3</text>
+  <text x="24" y="166" class="traffic">Unique visitors total: 1</text>
+  <text x="24" y="223" class="hint">Traffic since 2026-02-19 (last 2026-03-04)</text>
+  <circle cx="28" cy="187" r="5" fill="#94A3B8" />
+  <text x="40" y="191" class="meta">Unknown</text>
+  <text x="220" y="191" class="meta">★ 2</text>
+  <text x="300" y="191" class="meta">⑂ 1</text>
+  <text x="24" y="208" class="sub">ochtum/CSharpKnowledge</text>
+  <rect x="413" y="197" width="58" height="15" rx="7" fill="#0F766E" stroke="#14B8A6" />
+  <text x="442" y="207" class="badge-text" fill="#CCFBF1">PUBLIC</text>
 </svg>
 
