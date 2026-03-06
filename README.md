@@ -26,8 +26,8 @@
 ![](https://skillicons.dev/icons?i=cs,php,js,ts,html,css)
 
  <!-- github-readme-stats:start -->
-<div align="center">
-  <img width="100%" src="output/top-languages.svg" alt="top-languages" />
+<div align="left">
+  <img width="60%" src="output/top-languages.svg" alt="top-languages" />
 </div>
 <!-- github-readme-stats:end -->
 
@@ -49,8 +49,9 @@
 <div align="center">
   <img width="49%" src="output/github-stats.svg" alt="github-stats" />
   <img width="49%" src="output/stats.svg" alt="stats" />
-  <br />
-  <img width="100%" src="output/public-repo-totals.svg" alt="public-repo-totals" />
+</div>
+<div align="left">
+  <img width="60%" src="output/public-repo-totals.svg" alt="public-repo-totals" />
 </div>
 <!-- github-readme-stats:stats:end -->
 
