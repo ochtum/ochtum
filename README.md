@@ -42,10 +42,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/ochtum/ochtum/main/output/github-stats.svg" alt="github-stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/ochtum/ochtum/main/output/stats.svg" alt="stats" />
+  <img width="49%" src="./output/github-stats.svg" alt="github-stats" />
+  <img width="49%" src="./output/stats.svg" alt="stats" />
   <br />
-  <img width="100%" src="https://raw.githubusercontent.com/ochtum/ochtum/main/output/public-repo-totals.svg" alt="public-repo-totals" />
+  <img width="100%" src="./output/public-repo-totals.svg" alt="public-repo-totals" />
 </div>
 
 ## ✨ My Projects
