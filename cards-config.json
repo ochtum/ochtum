@@ -1,8 +1,10 @@
 {
   "username": "ochtum",
+  "theme": "neon-night",
   "displayTimeZone": "Asia/Tokyo",
   "displayTimeZoneLabel": "JST",
   "repositories": [
+    "ochtum/GitHubReadmeStats",
     "ochtum/CaptureScreenMCP",
     "ochtum/SlackEmojiBookmaker",
     "ochtum/ClaudeSessionsViewer",
