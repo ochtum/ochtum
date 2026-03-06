@@ -15,10 +15,10 @@
       .hint { font: 500 10px 'Segoe UI', Arial, sans-serif; fill: #64748B; }
       .traffic-panel { fill: #0A1E3A; fill-opacity: 0.55; stroke: #1D4ED8; stroke-opacity: 0.65; }
       .traffic-sep { stroke: #1D4ED8; stroke-opacity: 0.45; }
-      .icon-frame { fill: #0F1E3D; stroke: #3B82F6; stroke-width: 1.4; }
+      .icon-frame { fill: #F8FAFC; stroke: #3B82F6; stroke-width: 1.4; }
       .icon-image-bg { fill: #0B1224; }
-      .icon-shape { fill: none; stroke: #7DD3FC; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
-      .icon-dot { fill: #22D3EE; }
+      .icon-shape { fill: none; stroke: #0F172A; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+      .icon-dot { fill: #0F172A; }
     </style>
     <clipPath id="iconClip">
       <rect x="4" y="4" width="20" height="20" rx="4" />
@@ -54,7 +54,7 @@
   <text x="144" y="200" class="meta">★ 1</text>
   <text x="208" y="200" class="meta">⑂ 0</text>
   <text x="24" y="214" class="sub">ochtum/DaprMultiContainer</text>
-  <rect x="413" y="203" width="58" height="15" rx="7" fill="#0F766E" stroke="#14B8A6" />
+  <rect x="413" y="203" width="58" height="15" rx="7" fill="#0F766E" stroke="#F8FAFC" />
   <text x="442" y="213" class="badge-text" fill="#CCFBF1">PUBLIC</text>
 </svg>
 

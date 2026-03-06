@@ -15,10 +15,10 @@
       .hint { font: 500 10px 'Segoe UI', Arial, sans-serif; fill: #64748B; }
       .traffic-panel { fill: #0A1E3A; fill-opacity: 0.55; stroke: #1D4ED8; stroke-opacity: 0.65; }
       .traffic-sep { stroke: #1D4ED8; stroke-opacity: 0.45; }
-      .icon-frame { fill: #0F1E3D; stroke: #3B82F6; stroke-width: 1.4; }
+      .icon-frame { fill: #F8FAFC; stroke: #3B82F6; stroke-width: 1.4; }
       .icon-image-bg { fill: #0B1224; }
-      .icon-shape { fill: none; stroke: #7DD3FC; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
-      .icon-dot { fill: #22D3EE; }
+      .icon-shape { fill: none; stroke: #0F172A; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+      .icon-dot { fill: #0F172A; }
     </style>
     <clipPath id="iconClip">
       <rect x="4" y="4" width="20" height="20" rx="4" />
@@ -39,20 +39,20 @@
   <line x1="246" y1="132" x2="246" y2="174" class="traffic-sep" />
   <line x1="357" y1="132" x2="357" y2="174" class="traffic-sep" />
   <text x="79" y="142" class="traffic-label" text-anchor="middle">Git Clones</text>
-  <text x="79" y="164" class="traffic-value" text-anchor="middle">47</text>
+  <text x="79" y="164" class="traffic-value" text-anchor="middle">49</text>
   <text x="190" y="142" class="traffic-label" text-anchor="middle">Unique Cloners</text>
-  <text x="190" y="164" class="traffic-value" text-anchor="middle">30</text>
+  <text x="190" y="164" class="traffic-value" text-anchor="middle">32</text>
   <text x="301" y="142" class="traffic-label" text-anchor="middle">Total Views</text>
   <text x="301" y="164" class="traffic-value" text-anchor="middle">16</text>
   <text x="412" y="142" class="traffic-label" text-anchor="middle">Unique Visitors</text>
   <text x="412" y="164" class="traffic-value" text-anchor="middle">7</text>
-  <text x="24" y="223" class="hint">Traffic since 2026-02-19 (last 2026-03-04)</text>
+  <text x="24" y="223" class="hint">Traffic since 2026-02-19 (last 2026-03-05)</text>
   <circle cx="28" cy="196" r="5" fill="#012456" />
   <text x="40" y="200" class="meta">PowerShell</text>
   <text x="144" y="200" class="meta">★ 0</text>
   <text x="208" y="200" class="meta">⑂ 0</text>
   <text x="24" y="214" class="sub">ochtum/TechBlogWriter</text>
-  <rect x="413" y="203" width="58" height="15" rx="7" fill="#0F766E" stroke="#14B8A6" />
+  <rect x="413" y="203" width="58" height="15" rx="7" fill="#0F766E" stroke="#F8FAFC" />
   <text x="442" y="213" class="badge-text" fill="#CCFBF1">PUBLIC</text>
 </svg>
 
