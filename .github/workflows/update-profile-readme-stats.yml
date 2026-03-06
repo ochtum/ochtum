@@ -44,7 +44,9 @@ jobs:
             --exclude-languages "${EXCLUDED_LANGUAGES}" \
             --top 6 \
             --cards-config cards-config.json \
-            --cards-output-dir output
+            --cards-output-dir output \
+            --update-readme README.md \
+            --pins-columns 2
 
       - name: Commit and push if changed
         run: |
