@@ -2,7 +2,7 @@ name: update-profile-readme-stats
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Every Monday (UTC)
+    - cron: "0 16 * * *" # Daily at 01:00 JST (16:00 UTC)
   workflow_dispatch:
 
 concurrency:
