@@ -10,6 +10,7 @@
       .traffic-label { font: 600 9px 'Segoe UI', Arial, sans-serif; fill: #93C5FD; }
       .traffic-value { font: 700 17px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .meta { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
+      .fork-icon { font: 700 14px 'Segoe UI Symbol', 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
       .sub { font: 500 11px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
       .badge-text { font: 700 9px 'Segoe UI', Arial, sans-serif; text-anchor: middle; }
       .hint { font: 500 10px 'Segoe UI', Arial, sans-serif; fill: #64748B; }
@@ -41,18 +42,18 @@
   <line x1="246" y1="132" x2="246" y2="174" class="traffic-sep" />
   <line x1="357" y1="132" x2="357" y2="174" class="traffic-sep" />
   <text x="79" y="142" class="traffic-label" text-anchor="middle">Git Clones</text>
-  <text x="79" y="164" class="traffic-value" text-anchor="middle">100</text>
+  <text x="79" y="164" class="traffic-value" text-anchor="middle">105</text>
   <text x="190" y="142" class="traffic-label" text-anchor="middle">Unique Cloners</text>
-  <text x="190" y="164" class="traffic-value" text-anchor="middle">73</text>
+  <text x="190" y="164" class="traffic-value" text-anchor="middle">76</text>
   <text x="301" y="142" class="traffic-label" text-anchor="middle">Total Views</text>
-  <text x="301" y="164" class="traffic-value" text-anchor="middle">65</text>
+  <text x="301" y="164" class="traffic-value" text-anchor="middle">74</text>
   <text x="412" y="142" class="traffic-label" text-anchor="middle">Unique Visitors</text>
-  <text x="412" y="164" class="traffic-value" text-anchor="middle">9</text>
-  <text x="24" y="223" class="hint">Traffic since 2026-02-19 (last 2026-03-05)</text>
+  <text x="412" y="164" class="traffic-value" text-anchor="middle">10</text>
+  <text x="24" y="223" class="hint">Traffic since 2026-02-19 (last 2026-03-06)</text>
   <circle cx="28" cy="196" r="5" fill="#3572A5" />
   <text x="40" y="200" class="meta">Python</text>
   <text x="144" y="200" class="meta">★ 0</text>
-  <text x="208" y="200" class="meta">⑂ 0</text>
+  <text x="208" y="200" class="meta"><tspan class="fork-icon">⑂</tspan> 0</text>
   <text x="24" y="214" class="sub">ochtum/GitHubCopilotSessionsViewer</text>
   <rect x="413" y="203" width="58" height="15" rx="7" fill="#0F766E" stroke="#F8FAFC" />
   <text x="442" y="213" class="badge-text" fill="#CCFBF1">PUBLIC</text>
