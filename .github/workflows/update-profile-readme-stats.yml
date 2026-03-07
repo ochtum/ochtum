@@ -45,7 +45,7 @@ jobs:
             --top 6 \
             --cards-config cards-config.json \
             --cards-output-dir output \
-            --update-readme README.md \
+            --update-readme ./README.md \
             --pins-columns 2
 
       - name: Commit and push if changed
