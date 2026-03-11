@@ -59,38 +59,39 @@
 
 <!-- github-readme-stats:pins-own:start -->
 <p align="left">
+  <a href="https://github.com/ochtum/AI-Manager"><img width="49%" src="output/pins/ochtum-AI-Manager.svg" alt="AI-Manager" /></a>
   <a href="https://github.com/ochtum/GitHubReadmeStats"><img width="49%" src="output/pins/ochtum-GitHubReadmeStats.svg" alt="GitHubReadmeStats" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/CaptureScreenMCP"><img width="49%" src="output/pins/ochtum-CaptureScreenMCP.svg" alt="CaptureScreenMCP" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/SlackEmojiBookmaker"><img width="49%" src="output/pins/ochtum-SlackEmojiBookmaker.svg" alt="SlackEmojiBookmaker" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/ClaudeSessionsViewer"><img width="49%" src="output/pins/ochtum-ClaudeSessionsViewer.svg" alt="ClaudeSessionsViewer" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/CodexSessionsViewer"><img width="49%" src="output/pins/ochtum-CodexSessionsViewer.svg" alt="CodexSessionsViewer" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/GitHubCopilotSessionsViewer"><img width="49%" src="output/pins/ochtum-GitHubCopilotSessionsViewer.svg" alt="GitHubCopilotSessionsViewer" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/BandleManager"><img width="49%" src="output/pins/ochtum-BandleManager.svg" alt="BandleManager" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/TechBlogWriter"><img width="49%" src="output/pins/ochtum-TechBlogWriter.svg" alt="TechBlogWriter" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/blazor-gantt-chart"><img width="49%" src="output/pins/ochtum-blazor-gantt-chart.svg" alt="blazor-gantt-chart" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/BlazorWebAsemblyTest"><img width="49%" src="output/pins/ochtum-BlazorWebAsemblyTest.svg" alt="BlazorWebAsemblyTest" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/CSharpKnowledge"><img width="49%" src="output/pins/ochtum-CSharpKnowledge.svg" alt="CSharpKnowledge" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/SVG-Study"><img width="49%" src="output/pins/ochtum-SVG-Study.svg" alt="SVG-Study" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/YamlSettingTest"><img width="49%" src="output/pins/ochtum-YamlSettingTest.svg" alt="YamlSettingTest" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/DaprMultiContainer"><img width="49%" src="output/pins/ochtum-DaprMultiContainer.svg" alt="DaprMultiContainer" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/TypeScriptLeaning"><img width="49%" src="output/pins/ochtum-TypeScriptLeaning.svg" alt="TypeScriptLeaning" /></a>
-  <a href="https://github.com/ochtum/LinkToAllEmployeeList"><img width="49%" src="output/pins/ochtum-LinkToAllEmployeeList.svg" alt="LinkToAllEmployeeList" /></a>
 </p>
 <p align="left">
+  <a href="https://github.com/ochtum/LinkToAllEmployeeList"><img width="49%" src="output/pins/ochtum-LinkToAllEmployeeList.svg" alt="LinkToAllEmployeeList" /></a>
   <a href="https://github.com/ochtum/GoogleDriveAddPermission"><img width="49%" src="output/pins/ochtum-GoogleDriveAddPermission.svg" alt="GoogleDriveAddPermission" /></a>
 </p>
 <!-- github-readme-stats:pins-own:end -->
