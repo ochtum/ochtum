@@ -4,7 +4,7 @@
   "displayTimeZone": "Asia/Tokyo",
   "displayTimeZoneLabel": "JST",
   "repositories": [
-    "ochtum/AI-Manager",
+    "ochtum/AI-CLI-Watcher",
     "ochtum/GitHubReadmeStats",
     "ochtum/CaptureScreenMCP",
     "ochtum/SlackEmojiBookmaker",
