@@ -59,7 +59,7 @@
 
 <!-- github-readme-stats:pins-own:start -->
 <p align="left">
-  <a href="https://github.com/ochtum/AI-Manager"><img width="49%" src="output/pins/ochtum-AI-Manager.svg" alt="AI-Manager" /></a>
+  <a href="https://github.com/ochtum/AI-CLI-Watcher"><img width="49%" src="output/pins/ochtum-AI-CLI-Watcher.svg" alt="AI-CLI-Watcher" /></a>
   <a href="https://github.com/ochtum/GitHubReadmeStats"><img width="49%" src="output/pins/ochtum-GitHubReadmeStats.svg" alt="GitHubReadmeStats" /></a>
 </p>
 <p align="left">
