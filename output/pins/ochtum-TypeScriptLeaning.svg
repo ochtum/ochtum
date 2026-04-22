@@ -40,14 +40,14 @@
   <line x1="246" y1="132" x2="246" y2="174" class="traffic-sep" />
   <line x1="357" y1="132" x2="357" y2="174" class="traffic-sep" />
   <text x="79" y="142" class="traffic-label" text-anchor="middle">Git Clones</text>
-  <text x="79" y="164" class="traffic-value" text-anchor="middle">248</text>
+  <text x="79" y="164" class="traffic-value" text-anchor="middle">250</text>
   <text x="190" y="142" class="traffic-label" text-anchor="middle">Unique Cloners</text>
-  <text x="190" y="164" class="traffic-value" text-anchor="middle">141</text>
+  <text x="190" y="164" class="traffic-value" text-anchor="middle">143</text>
   <text x="301" y="142" class="traffic-label" text-anchor="middle">Total Views</text>
   <text x="301" y="164" class="traffic-value" text-anchor="middle">132</text>
   <text x="412" y="142" class="traffic-label" text-anchor="middle">Unique Visitors</text>
   <text x="412" y="164" class="traffic-value" text-anchor="middle">10</text>
-  <text x="24" y="223" class="hint">Traffic since 2026-02-17 (last 2026-04-19)</text>
+  <text x="24" y="223" class="hint">Traffic since 2026-02-17 (last 2026-04-20)</text>
   <circle cx="28" cy="196" r="5" fill="#3178c6" />
   <text x="40" y="200" class="meta">TypeScript</text>
   <text x="144" y="200" class="meta">★ 0</text>
