@@ -4,6 +4,8 @@
   "displayTimeZone": "Asia/Tokyo",
   "displayTimeZoneLabel": "JST",
   "repositories": [
+    "ochtum/TechBlogWriter",
+    "ochtum/SlideDeckCreator",
     "ochtum/AI-CLI-Watcher",
     "ochtum/GitHubReadmeStats",
     "ochtum/CaptureScreenMCP",
@@ -12,7 +14,6 @@
     "ochtum/CodexSessionsViewer",
     "ochtum/GitHubCopilotSessionsViewer",
     "ochtum/BandleManager",
-    "ochtum/TechBlogWriter",
     "ochtum/blazor-gantt-chart",
     "ochtum/BlazorWebAsemblyTest",
     "ochtum/CSharpKnowledge",
