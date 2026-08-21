@@ -59,6 +59,10 @@
 
 <!-- github-readme-stats:pins-own:start -->
 <p align="left">
+  <a href="https://github.com/ochtum/TechBlogWriter"><img width="49%" src="output/pins/ochtum-TechBlogWriter.svg" alt="TechBlogWriter" /></a>
+  <a href="https://github.com/ochtum/SlideDeckCreator"><img width="49%" src="output/pins/ochtum-SlideDeckCreator.svg" alt="SlideDeckCreator" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/AI-CLI-Watcher"><img width="49%" src="output/pins/ochtum-AI-CLI-Watcher.svg" alt="AI-CLI-Watcher" /></a>
   <a href="https://github.com/ochtum/GitHubReadmeStats"><img width="49%" src="output/pins/ochtum-GitHubReadmeStats.svg" alt="GitHubReadmeStats" /></a>
 </p>
@@ -75,23 +79,22 @@
   <a href="https://github.com/ochtum/BandleManager"><img width="49%" src="output/pins/ochtum-BandleManager.svg" alt="BandleManager" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/ochtum/TechBlogWriter"><img width="49%" src="output/pins/ochtum-TechBlogWriter.svg" alt="TechBlogWriter" /></a>
   <a href="https://github.com/ochtum/blazor-gantt-chart"><img width="49%" src="output/pins/ochtum-blazor-gantt-chart.svg" alt="blazor-gantt-chart" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/BlazorWebAsemblyTest"><img width="49%" src="output/pins/ochtum-BlazorWebAsemblyTest.svg" alt="BlazorWebAsemblyTest" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/CSharpKnowledge"><img width="49%" src="output/pins/ochtum-CSharpKnowledge.svg" alt="CSharpKnowledge" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/SVG-Study"><img width="49%" src="output/pins/ochtum-SVG-Study.svg" alt="SVG-Study" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/YamlSettingTest"><img width="49%" src="output/pins/ochtum-YamlSettingTest.svg" alt="YamlSettingTest" /></a>
-</p>
-<p align="left">
   <a href="https://github.com/ochtum/DaprMultiContainer"><img width="49%" src="output/pins/ochtum-DaprMultiContainer.svg" alt="DaprMultiContainer" /></a>
-  <a href="https://github.com/ochtum/TypeScriptLeaning"><img width="49%" src="output/pins/ochtum-TypeScriptLeaning.svg" alt="TypeScriptLeaning" /></a>
 </p>
 <p align="left">
+  <a href="https://github.com/ochtum/TypeScriptLeaning"><img width="49%" src="output/pins/ochtum-TypeScriptLeaning.svg" alt="TypeScriptLeaning" /></a>
   <a href="https://github.com/ochtum/LinkToAllEmployeeList"><img width="49%" src="output/pins/ochtum-LinkToAllEmployeeList.svg" alt="LinkToAllEmployeeList" /></a>
+</p>
+<p align="left">
   <a href="https://github.com/ochtum/GoogleDriveAddPermission"><img width="49%" src="output/pins/ochtum-GoogleDriveAddPermission.svg" alt="GoogleDriveAddPermission" /></a>
 </p>
 <!-- github-readme-stats:pins-own:end -->
