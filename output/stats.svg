@@ -23,7 +23,7 @@
   <text x="18" y="26" class="title">ochtum (Ochtum)</text>
   <text x="18" y="45" class="login">@ochtum</text>
   <circle cx="20" cy="66" r="3" fill="#809EC5" />
-  <text x="28" y="69" class="value">1,308 Contributions in 2026</text>
+  <text x="28" y="69" class="value">1,696 Contributions in 2026</text>
   <circle cx="20" cy="82" r="3" fill="#8085C5" />
   <text x="28" y="85" class="value">28 Public Repositories</text>
   <circle cx="20" cy="98" r="3" fill="#80B7C5" />
@@ -38,50 +38,54 @@
   <rect x="224" y="26" width="245" height="132" rx="4" fill="#37404E" fill-opacity="0.34" />
   <line x1="224" y1="158" x2="469" y2="158" stroke="#3C4C62" stroke-opacity="0.55" />
   <text x="475" y="161" class="axis">0</text>
-  <line x1="224" y1="151.71" x2="469" y2="151.71" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="154.71" class="axis">20</text>
-  <line x1="224" y1="145.43" x2="469" y2="145.43" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="148.43" class="axis">40</text>
-  <line x1="224" y1="139.14" x2="469" y2="139.14" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="142.14" class="axis">60</text>
-  <line x1="224" y1="132.86" x2="469" y2="132.86" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="135.86" class="axis">80</text>
-  <line x1="224" y1="126.57" x2="469" y2="126.57" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="129.57" class="axis">100</text>
-  <line x1="224" y1="120.29" x2="469" y2="120.29" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="123.29" class="axis">120</text>
-  <line x1="224" y1="114" x2="469" y2="114" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="117" class="axis">140</text>
-  <line x1="224" y1="107.71" x2="469" y2="107.71" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="110.71" class="axis">160</text>
-  <line x1="224" y1="101.43" x2="469" y2="101.43" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="104.43" class="axis">180</text>
-  <line x1="224" y1="95.14" x2="469" y2="95.14" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="98.14" class="axis">200</text>
-  <line x1="224" y1="88.86" x2="469" y2="88.86" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="91.86" class="axis">220</text>
-  <line x1="224" y1="82.57" x2="469" y2="82.57" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="85.57" class="axis">240</text>
-  <line x1="224" y1="76.29" x2="469" y2="76.29" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="79.29" class="axis">260</text>
-  <line x1="224" y1="70" x2="469" y2="70" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="73" class="axis">280</text>
-  <line x1="224" y1="63.71" x2="469" y2="63.71" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="66.71" class="axis">300</text>
-  <line x1="224" y1="57.43" x2="469" y2="57.43" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="60.43" class="axis">320</text>
-  <line x1="224" y1="51.14" x2="469" y2="51.14" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="54.14" class="axis">340</text>
-  <line x1="224" y1="44.86" x2="469" y2="44.86" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="47.86" class="axis">360</text>
-  <line x1="224" y1="38.57" x2="469" y2="38.57" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="41.57" class="axis">380</text>
-  <line x1="224" y1="32.29" x2="469" y2="32.29" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="35.29" class="axis">400</text>
+  <line x1="224" y1="152.26" x2="469" y2="152.26" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="155.26" class="axis">20</text>
+  <line x1="224" y1="146.52" x2="469" y2="146.52" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="149.52" class="axis">40</text>
+  <line x1="224" y1="140.78" x2="469" y2="140.78" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="143.78" class="axis">60</text>
+  <line x1="224" y1="135.04" x2="469" y2="135.04" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="138.04" class="axis">80</text>
+  <line x1="224" y1="129.3" x2="469" y2="129.3" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="132.3" class="axis">100</text>
+  <line x1="224" y1="123.57" x2="469" y2="123.57" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="126.57" class="axis">120</text>
+  <line x1="224" y1="117.83" x2="469" y2="117.83" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="120.83" class="axis">140</text>
+  <line x1="224" y1="112.09" x2="469" y2="112.09" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="115.09" class="axis">160</text>
+  <line x1="224" y1="106.35" x2="469" y2="106.35" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="109.35" class="axis">180</text>
+  <line x1="224" y1="100.61" x2="469" y2="100.61" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="103.61" class="axis">200</text>
+  <line x1="224" y1="94.87" x2="469" y2="94.87" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="97.87" class="axis">220</text>
+  <line x1="224" y1="89.13" x2="469" y2="89.13" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="92.13" class="axis">240</text>
+  <line x1="224" y1="83.39" x2="469" y2="83.39" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="86.39" class="axis">260</text>
+  <line x1="224" y1="77.65" x2="469" y2="77.65" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="80.65" class="axis">280</text>
+  <line x1="224" y1="71.91" x2="469" y2="71.91" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="74.91" class="axis">300</text>
+  <line x1="224" y1="66.17" x2="469" y2="66.17" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="69.17" class="axis">320</text>
+  <line x1="224" y1="60.43" x2="469" y2="60.43" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="63.43" class="axis">340</text>
+  <line x1="224" y1="54.7" x2="469" y2="54.7" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="57.7" class="axis">360</text>
+  <line x1="224" y1="48.96" x2="469" y2="48.96" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="51.96" class="axis">380</text>
+  <line x1="224" y1="43.22" x2="469" y2="43.22" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="46.22" class="axis">400</text>
+  <line x1="224" y1="37.48" x2="469" y2="37.48" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="40.48" class="axis">420</text>
+  <line x1="224" y1="31.74" x2="469" y2="31.74" stroke="#3C4C62" stroke-opacity="0.55" />
+  <text x="475" y="34.74" class="axis">440</text>
   <line x1="224" y1="26" x2="469" y2="26" stroke="#3C4C62" stroke-opacity="0.55" />
-  <text x="475" y="29" class="axis">420</text>
-  <path d="M 224 158 L 224 150.14 C 227.4 149.78 237.61 147.89 244.42 147.94 C 251.22 148 258.03 152.6 264.83 150.46 C 271.64 148.31 278.44 155.07 285.25 135.06 C 292.06 115.05 298.86 28.15 305.67 30.4 C 312.47 32.65 319.28 128.61 326.08 148.57 C 332.89 168.53 339.69 150.56 346.5 150.14 C 353.31 149.72 360.11 146.84 366.92 146.06 C 373.72 145.27 380.53 151.98 387.33 145.43 C 394.14 138.88 400.94 112.8 407.75 106.77 C 414.56 100.75 421.36 112.69 428.17 109.29 C 434.97 105.88 441.78 84.82 448.58 86.34 C 455.39 87.86 465.6 113.06 469 118.4 L 469 158 Z" fill="url(#area)" stroke="none" />
-  <path d="M 224 150.14 C 227.4 149.78 237.61 147.89 244.42 147.94 C 251.22 148 258.03 152.6 264.83 150.46 C 271.64 148.31 278.44 155.07 285.25 135.06 C 292.06 115.05 298.86 28.15 305.67 30.4 C 312.47 32.65 319.28 128.61 326.08 148.57 C 332.89 168.53 339.69 150.56 346.5 150.14 C 353.31 149.72 360.11 146.84 366.92 146.06 C 373.72 145.27 380.53 151.98 387.33 145.43 C 394.14 138.88 400.94 112.8 407.75 106.77 C 414.56 100.75 421.36 112.69 428.17 109.29 C 434.97 105.88 441.78 84.82 448.58 86.34 C 455.39 87.86 465.6 113.06 469 118.4" fill="none" stroke="#809EC5" stroke-width="2" />
+  <text x="475" y="29" class="axis">460</text>
+  <path d="M 224 158 L 224 150.83 C 227.4 150.49 237.61 148.77 244.42 148.82 C 251.22 148.87 258.03 153.07 264.83 151.11 C 271.64 149.15 278.44 155.32 285.25 137.05 C 292.06 118.78 298.86 39.44 305.67 41.5 C 312.47 43.55 319.28 131.17 326.08 149.39 C 332.89 167.61 339.69 151.21 346.5 150.83 C 353.31 150.44 360.11 147.81 366.92 147.1 C 373.72 146.38 380.53 152.5 387.33 146.52 C 394.14 140.54 400.94 121.03 407.75 111.23 C 414.56 101.42 421.36 101.76 428.17 87.7 C 434.97 73.63 441.78 24.47 448.58 26.86 C 455.39 29.25 465.6 89.51 469 102.04 L 469 158 Z" fill="url(#area)" stroke="none" />
+  <path d="M 224 150.83 C 227.4 150.49 237.61 148.77 244.42 148.82 C 251.22 148.87 258.03 153.07 264.83 151.11 C 271.64 149.15 278.44 155.32 285.25 137.05 C 292.06 118.78 298.86 39.44 305.67 41.5 C 312.47 43.55 319.28 131.17 326.08 149.39 C 332.89 167.61 339.69 151.21 346.5 150.83 C 353.31 150.44 360.11 147.81 366.92 147.1 C 373.72 146.38 380.53 152.5 387.33 146.52 C 394.14 140.54 400.94 121.03 407.75 111.23 C 414.56 101.42 421.36 101.76 428.17 87.7 C 434.97 73.63 441.78 24.47 448.58 26.86 C 455.39 29.25 465.6 89.51 469 102.04" fill="none" stroke="#809EC5" stroke-width="2" />
   <text x="224" y="171" class="xaxis" text-anchor="middle">25/11</text>
   <text x="264.83" y="171" class="xaxis" text-anchor="middle">26/01</text>
   <text x="305.67" y="171" class="xaxis" text-anchor="middle">26/03</text>
@@ -89,6 +93,6 @@
   <text x="387.33" y="171" class="xaxis" text-anchor="middle">26/07</text>
   <text x="428.17" y="171" class="xaxis" text-anchor="middle">26/09</text>
   <text x="469" y="171" class="xaxis" text-anchor="middle">26/11</text>
-  <text x="18" y="198" class="meta">Updated 2026-11-16 11:01 JST</text>
+  <text x="18" y="198" class="meta">Updated 2026-11-17 11:01 JST</text>
 </svg>
 
